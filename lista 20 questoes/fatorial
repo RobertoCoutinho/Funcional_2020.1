@@ -1,0 +1,2 @@
+fatorial x = 
+    let res = [1..x]
