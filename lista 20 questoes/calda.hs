@@ -1,0 +1,2 @@
+calda lista = 
+    tail lista

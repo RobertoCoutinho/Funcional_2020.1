@@ -1,0 +1,2 @@
+reverso lista = 
+    reverse lista
