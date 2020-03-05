@@ -1,0 +1,1 @@
+tamanho xs = sum[1 | x <- xs]

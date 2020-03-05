@@ -6,3 +6,4 @@ iguais3 x y z =
     else
         "todos diferentes"
     
+    
