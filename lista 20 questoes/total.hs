@@ -1,1 +1,1 @@
-tamanho xs = sum[1 | x <- xs] qq
+tamanho xs = sum[1 | x <- xs]
