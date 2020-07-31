@@ -1,2 +1,1 @@
-calda lista = 
-    tail lista
+calda list = tail list

@@ -1,2 +1,1 @@
-corpo lista = 
-    init lista
+corpo list = init list

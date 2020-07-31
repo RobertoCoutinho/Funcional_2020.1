@@ -1,2 +1,1 @@
-reverso lista = 
-    reverse lista
+reverso list = reverse list

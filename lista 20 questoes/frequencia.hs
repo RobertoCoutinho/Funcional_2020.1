@@ -1,2 +1,2 @@
-frequencia x lista = 
-    sum $ [1| a <- lista, a == x]
+frequencia n list = 
+    sum [1| x <- list, x == n]

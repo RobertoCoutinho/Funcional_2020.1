@@ -1,2 +1,1 @@
-divide n lista = 
-   (take n lista,drop n lista)
+divide n list = (take n list,drop n lista)

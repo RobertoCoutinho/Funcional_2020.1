@@ -1,2 +1,2 @@
 intersec listA listB = 
-    [(x, y) | x<-listA, y <- listB, x == y]
+    [x| x <- listA, x `elem` listB]

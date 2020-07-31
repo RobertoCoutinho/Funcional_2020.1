@@ -1,2 +1,1 @@
-pertence n lista = 
-    n `elem` lista
+pertence x lista = x `elem` lista 

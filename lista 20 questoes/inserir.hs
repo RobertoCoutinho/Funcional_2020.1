@@ -1,6 +1,6 @@
 inserir n [] = [n]
-inserir n (y:ys) = 
-    if n <= y 
-        then n:y:ys
-	else 
-        y:(inserir n ys)
+inserir n (x:xs) = 
+    if n <= x
+        then n:x:xs
+    else
+        x:(inserir n xs)

@@ -1,1 +1,2 @@
-tamanho xs = sum[1 | x <- xs]
+total list = 
+    sum [1| x <- list]

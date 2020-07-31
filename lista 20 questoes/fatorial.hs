@@ -1,2 +1,1 @@
-fatorial x =     
-    product [1..x]
+fatorial n = product[1..n]

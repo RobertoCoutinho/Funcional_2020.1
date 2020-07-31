@@ -1,2 +1,2 @@
-maioresQue x lista = 
-    [a | a <- lista, a > x]
+maioresQue n list =
+    [x | x <- list, x > n] 
