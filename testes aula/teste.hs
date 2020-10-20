@@ -14,5 +14,3 @@
 --         then x : filtro f xs
 --     else filtro f xs
 
-concatenaFold :: [[a]] -> [a] 
-concatenaFold xs = foldr (\x acc -> x ++ acc) [] xs

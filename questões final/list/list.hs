@@ -9,3 +9,7 @@
 --         then n `div` 2
 --     else
 --         n * 3 + 1
+
+
+primopalindromo:: [Integer]
+primopalindromo = 
