@@ -1,4 +1,5 @@
-data LinkedList a = Vazia | No a (LinkedList a) deriving (Eq, Show)
+--linked list
+{- data LinkedList a = Vazia | No a (LinkedList a) deriving (Eq, Show)
 
 
 fromList :: [a] -> LinkedList a
@@ -16,4 +17,10 @@ append x lista =
 
 reverseLinkedList :: LinkedList a -> LinkedList a
 reverseLinkedList lista = 
-    fromList $ reverse $ toList lista
+    fromList $ reverse $ toList lista -}
+
+
+
+
+
+
