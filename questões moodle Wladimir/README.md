@@ -1,6 +1,12 @@
 #### O que eu fiz:
 
-Fiz Aulgumas questões de cada modulo, alguns eu consegui fazer bem poucas outros um pouco mais, o modulo IO e criando seus modulos eu não fiz
+Fiz Aulgumas questões de cada modulo, alguns eu consegui fazer bem poucas outros um pouco mais.
+
+Função de alta ordem: 7 questões
+Definição de tipos: 1 questão
+Classe de tipos: 3 questões
+Lista infinitas: 4 questões
+Tipo arvore: 1 questao
 
 #### Com quem e como eu fiz:
 
