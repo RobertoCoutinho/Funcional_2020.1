@@ -1,6 +1,6 @@
 #### O que eu fiz:
 
-Fiz Aulgumas questões de cada modulo, alguns eu consegui fazer bem poucas, o modulo IO e criando seus modulos eu não fiz
+Fiz Aulgumas questões de cada modulo, alguns eu consegui fazer bem poucas outros um pouco mais, o modulo IO e criando seus modulos eu não fiz
 
 #### Com quem e como eu fiz:
 
