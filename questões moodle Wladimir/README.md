@@ -7,6 +7,7 @@ Definição de tipos: 1 questão
 Classe de tipos: 3 questões
 Lista infinitas: 4 questões
 Tipo arvore: 1 questao
+Monad, maybe, IO: 2 questões
 
 #### Com quem e como eu fiz:
 
