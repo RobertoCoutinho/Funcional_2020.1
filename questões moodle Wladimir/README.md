@@ -15,4 +15,4 @@ Algumas quetões fiz so e outras com ajuda de colegas e outras de trio
 
 #### Quanto tempo levei:
 
-levei bastante tempo fazendo por conta da dificuade que senti, acho que mais de 10 horas
+Acho que mais de 10 horas
